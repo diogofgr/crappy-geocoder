@@ -1,0 +1,16 @@
+/* TODO: Put your CSS code in here */
+.banner{
+  background-size: cover;
+  height: 100vh;
+  align-items: center;
+}
+
+#form-container{
+  background: #eee;
+  width: 100%;
+  padding: 20px;
+}
+
+/*#form-container{
+  border-style: dashed;
+}*/
